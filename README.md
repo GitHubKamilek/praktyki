@@ -1,6 +1,6 @@
 VPN configurations  
 
-
+---------- comands ----------------
 cd C:\Program Files\OpenVPN\easy-rsa
 
 EasyRSA-Start.bat
